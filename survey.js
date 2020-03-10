@@ -1,3 +1,5 @@
+// Paired with @hernandez87v and @jeff-sexton
+
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
